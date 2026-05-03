@@ -2,3 +2,5 @@
 .venv
 sentiment-analysis.py
 zzz-nb001-sentiment-analysis.ipynb
+resultados_candidatos_por_cv.md
+clasificacion_candidatos_por_cv.py
